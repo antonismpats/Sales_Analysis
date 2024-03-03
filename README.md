@@ -1,5 +1,5 @@
 # Sales_Analysis
-Sales Analysis from an Electronics Store brand across USA. The python script uses pandas and matplotlib to analyze and visualize sales data. It performs various tasks such as combining data from multiple CSV files, cleaning and preprocessing the data, generating insightful visualizations and answering to questions such as "Which was the best Sales Month?", "Which city had the highest number of sales?" and "At what time did the most sales occured?". 
+Sales Analysis from an Electronics Store brand across USA using Jupyter Notebook (I recommend it definitely for Data Analysis). The python script uses pandas and matplotlib to analyze and visualize sales data. It performs various tasks such as combining data from multiple CSV files, cleaning and preprocessing the data, generating insightful visualizations and answering to questions such as "Which was the best Sales Month?", "Which city had the highest number of sales?" and "At what time did the most sales occured?". 
 
 ## Here's a breakdown of the main functionalities:
 
